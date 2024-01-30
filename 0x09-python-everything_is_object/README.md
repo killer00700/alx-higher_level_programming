@@ -1,1 +1,1 @@
-dcsdcsd
+# Solutions to Python - Everything is object
